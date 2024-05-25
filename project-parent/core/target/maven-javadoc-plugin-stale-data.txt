@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/dio-java/maven-projects/project-parent/core/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/dio-java/maven-projects/project-parent/core/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'core 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/dio-java/maven-projects/project-parent/core/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'core 1.0-SNAPSHOT API'
+one.digital.innovation
+'C:/dio-java/maven-projects/project-parent/core/src/main/java/one/digital/innovation/App.java'
+C:\dio-java\maven-projects\project-parent\core\src\main\java = 1716672964672
+C:\dio-java\maven-projects\project-parent\core\target\site\apidocs\allclasses-index.html = 1716675122716
+C:\dio-java\maven-projects\project-parent\core\target\site\apidocs\allclasses.html = 1716675122764
+C:\dio-java\maven-projects\project-parent\core\target\site\apidocs\allpackages-index.html = 1716675122727
+C:\dio-java\maven-projects\project-parent\core\target\site\apidocs\constant-values.html = 1716675122500
+C:\dio-java\maven-projects\project-parent\core\target\site\apidocs\deprecated-list.html = 1716675122752
+C:\dio-java\maven-projects\project-parent\core\target\site\apidocs\element-list = 1716675122432
+C:\dio-java\maven-projects\project-parent\core\target\site\apidocs\help-doc.html = 1716675122818
+C:\dio-java\maven-projects\project-parent\core\target\site\apidocs\index-all.html = 1716675122696
+C:\dio-java\maven-projects\project-parent\core\target\site\apidocs\index.html = 1716675122792
+C:\dio-java\maven-projects\project-parent\core\target\site\apidocs\member-search-index.js = 1716675122685
+C:\dio-java\maven-projects\project-parent\core\target\site\apidocs\member-search-index.zip = 1716675122690
+C:\dio-java\maven-projects\project-parent\core\target\site\apidocs\overview-tree.html = 1716675122564
+C:\dio-java\maven-projects\project-parent\core\target\site\apidocs\package-search-index.js = 1716675122586
+C:\dio-java\maven-projects\project-parent\core\target\site\apidocs\package-search-index.zip = 1716675122668
+C:\dio-java\maven-projects\project-parent\core\target\site\apidocs\script.js = 1716675122842
+C:\dio-java\maven-projects\project-parent\core\target\site\apidocs\search.js = 1716675122852
+C:\dio-java\maven-projects\project-parent\core\target\site\apidocs\stylesheet.css = 1716675122831
+C:\dio-java\maven-projects\project-parent\core\target\site\apidocs\type-search-index.js = 1716675122674
+C:\dio-java\maven-projects\project-parent\core\target\site\apidocs\type-search-index.zip = 1716675122679

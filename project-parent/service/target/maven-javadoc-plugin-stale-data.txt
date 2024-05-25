@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/dio-java/maven-projects/project-parent/service/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/dio-java/maven-projects/project-parent/service/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'service 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/dio-java/maven-projects/project-parent/service/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'service 1.0-SNAPSHOT API'
+one.digital.innovation
+'C:/dio-java/maven-projects/project-parent/service/src/main/java/one/digital/innovation/App.java'
+C:\dio-java\maven-projects\project-parent\service\src\main\java = 1716673005762
+C:\dio-java\maven-projects\project-parent\service\target\site\apidocs\allclasses-index.html = 1716675125618
+C:\dio-java\maven-projects\project-parent\service\target\site\apidocs\allclasses.html = 1716675125677
+C:\dio-java\maven-projects\project-parent\service\target\site\apidocs\allpackages-index.html = 1716675125653
+C:\dio-java\maven-projects\project-parent\service\target\site\apidocs\constant-values.html = 1716675125432
+C:\dio-java\maven-projects\project-parent\service\target\site\apidocs\deprecated-list.html = 1716675125669
+C:\dio-java\maven-projects\project-parent\service\target\site\apidocs\element-list = 1716675125373
+C:\dio-java\maven-projects\project-parent\service\target\site\apidocs\help-doc.html = 1716675125707
+C:\dio-java\maven-projects\project-parent\service\target\site\apidocs\index-all.html = 1716675125581
+C:\dio-java\maven-projects\project-parent\service\target\site\apidocs\index.html = 1716675125687
+C:\dio-java\maven-projects\project-parent\service\target\site\apidocs\member-search-index.js = 1716675125565
+C:\dio-java\maven-projects\project-parent\service\target\site\apidocs\member-search-index.zip = 1716675125570
+C:\dio-java\maven-projects\project-parent\service\target\site\apidocs\overview-tree.html = 1716675125488
+C:\dio-java\maven-projects\project-parent\service\target\site\apidocs\package-search-index.js = 1716675125507
+C:\dio-java\maven-projects\project-parent\service\target\site\apidocs\package-search-index.zip = 1716675125543
+C:\dio-java\maven-projects\project-parent\service\target\site\apidocs\script.js = 1716675125727
+C:\dio-java\maven-projects\project-parent\service\target\site\apidocs\search.js = 1716675125740
+C:\dio-java\maven-projects\project-parent\service\target\site\apidocs\stylesheet.css = 1716675125720
+C:\dio-java\maven-projects\project-parent\service\target\site\apidocs\type-search-index.js = 1716675125552
+C:\dio-java\maven-projects\project-parent\service\target\site\apidocs\type-search-index.zip = 1716675125558

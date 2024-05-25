@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/dio-java/maven-projects/project-parent/controller/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/dio-java/maven-projects/project-parent/controller/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'controller 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/dio-java/maven-projects/project-parent/controller/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'controller 1.0-SNAPSHOT API'
+one.digital.innovation
+'C:/dio-java/maven-projects/project-parent/controller/src/main/java/one/digital/innovation/App.java'
+C:\dio-java\maven-projects\project-parent\controller\src\main\java = 1716673069536
+C:\dio-java\maven-projects\project-parent\controller\target\site\apidocs\allclasses-index.html = 1716675128442
+C:\dio-java\maven-projects\project-parent\controller\target\site\apidocs\allclasses.html = 1716675128472
+C:\dio-java\maven-projects\project-parent\controller\target\site\apidocs\allpackages-index.html = 1716675128450
+C:\dio-java\maven-projects\project-parent\controller\target\site\apidocs\constant-values.html = 1716675128292
+C:\dio-java\maven-projects\project-parent\controller\target\site\apidocs\deprecated-list.html = 1716675128464
+C:\dio-java\maven-projects\project-parent\controller\target\site\apidocs\element-list = 1716675128193
+C:\dio-java\maven-projects\project-parent\controller\target\site\apidocs\help-doc.html = 1716675128495
+C:\dio-java\maven-projects\project-parent\controller\target\site\apidocs\index-all.html = 1716675128420
+C:\dio-java\maven-projects\project-parent\controller\target\site\apidocs\index.html = 1716675128480
+C:\dio-java\maven-projects\project-parent\controller\target\site\apidocs\member-search-index.js = 1716675128408
+C:\dio-java\maven-projects\project-parent\controller\target\site\apidocs\member-search-index.zip = 1716675128414
+C:\dio-java\maven-projects\project-parent\controller\target\site\apidocs\overview-tree.html = 1716675128339
+C:\dio-java\maven-projects\project-parent\controller\target\site\apidocs\package-search-index.js = 1716675128361
+C:\dio-java\maven-projects\project-parent\controller\target\site\apidocs\package-search-index.zip = 1716675128389
+C:\dio-java\maven-projects\project-parent\controller\target\site\apidocs\script.js = 1716675128513
+C:\dio-java\maven-projects\project-parent\controller\target\site\apidocs\search.js = 1716675128523
+C:\dio-java\maven-projects\project-parent\controller\target\site\apidocs\stylesheet.css = 1716675128506
+C:\dio-java\maven-projects\project-parent\controller\target\site\apidocs\type-search-index.js = 1716675128396
+C:\dio-java\maven-projects\project-parent\controller\target\site\apidocs\type-search-index.zip = 1716675128402
